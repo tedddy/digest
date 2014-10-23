@@ -1,0 +1,3 @@
+digest
+======
+Collect information.
